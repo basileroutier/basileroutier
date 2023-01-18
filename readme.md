@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=basileroutier&include_all_commits=false&theme=prussian&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=basileroutier&theme=prussian&hide_border=true)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=basileroutier)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basileroutier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
