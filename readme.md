@@ -13,11 +13,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=basileroutier&theme=prussian&hide_border=true)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basileroutier&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basileroutier)](https://github.com/basileroutier)
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=basileroutier&show_icons=false&color=3)](https://visitcount.itsvg.in)
